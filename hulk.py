@@ -193,10 +193,10 @@ if __name__ == "__main__":
 
     print(
         bordered(
-            "-- HULK Attack Started --\n\n"
+            "-- Anon_R7 HULK Attack Started --\n\n"
             "Current Version: 3.0\n\n"
             "Compatible with: Python 3.7\n\n"
-            "Author: Hyperclaw79\n"
+            "Author: Anon_®7\n"
         )
     )
 
